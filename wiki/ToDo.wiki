@@ -1,0 +1,27 @@
+#summary Planned improvements
+#labels Phase-Requirements,Phase-Design,Phase-QA,Phase-Support
+
+== Roadmap ==
+
+=== v0.1.0 ===
+  * Check-boxes in 'Status' column fields
+  * In-place editing of Fcrontab lines within table
+  * Inserting, appending and deleting entries
+  * Moving and copying entries to new locations
+  * Auto-saving and installing of modified Fcrontab
+  * All general features from Q7Z and Quamachi
+  * Manipulative buttons in toolbar for actions
+  * Right-click context menu for actions
+  * Disabled combo-box that notes the current user
+
+=== v0.2.0 ===
+  * Multi-undo, possibly even kept between sessions
+  * View and edit other users' or system Fcrontab
+  * Proper editing dialog with appropriate widgets
+  * The ability to control the Fcron daemon
+  * Direct access to the Fcron documentation
+  * Support for the more advanced Fcron features
+  * Any missing features that exist in other GUIs
+  * Resizable main window and contents
+  * Command-line flags, to open another Fcrontab
+  * A timer that auto-loads any external changes
