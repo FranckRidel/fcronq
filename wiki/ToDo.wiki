@@ -13,6 +13,7 @@
   * Manipulative buttons in toolbar for actions
   * Right-click context menu for actions
   * Disabled combo-box that notes the current user
+  * Get some info from Fcron configuration file
 
 === v0.2.0 ===
   * Multi-undo, possibly even kept between sessions
@@ -25,3 +26,4 @@
   * Resizable main window and contents
   * Command-line flags, to open another Fcrontab
   * A timer that auto-loads any external changes
+  * Get more info from Fcron configuration file
