@@ -26,4 +26,5 @@
   * Resizable main window and contents
   * Command-line flags, to open another Fcrontab
   * A timer that auto-loads any external changes
+  * Run Fcrontab in debug mode, for error detection
   * Get more info from Fcron configuration file
