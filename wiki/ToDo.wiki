@@ -17,6 +17,7 @@
   * Read-only mode if Fcrontab couldn't be parsed
   * Coloured text for disabled and faulty lines
   * A dialog prompting to save changes before quitting
+  * Options to fold spanned and hide disabled lines
 
 === v0.2.0 ===
   * Auto-saving of changes, no longer when quitting
