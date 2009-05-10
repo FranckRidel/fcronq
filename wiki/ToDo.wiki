@@ -4,8 +4,9 @@
 == Roadmap ==
 
 === v0.1.0 ===
+  * View and edit user's and system Fcrontab
   * Check-boxes in 'Status' column fields
-  * In-place editing of Fcrontab lines within table
+  * In-place editing of tabulated Fcrontab lines
   * Inserting, appending and deleting entries
   * Moving and copying entries to new locations
   * Auto-saving and installing of modified Fcrontab
@@ -19,7 +20,6 @@
   * A dialog prompting to save changes before quitting
   * Options to fold spanned and hide disabled lines
   * Support for spanning multiple lines, using '\'
-  * View and edit other users' or system Fcrontab
 
 === v0.2.0 ===
   * Auto-saving of changes, no longer when quitting
