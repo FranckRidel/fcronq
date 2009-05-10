@@ -16,8 +16,10 @@
   * Get some info from Fcron configuration file
   * Read-only mode if Fcrontab couldn't be parsed
   * Coloured text for disabled and faulty lines
+  * A dialog prompting to save changes before quitting
 
 === v0.2.0 ===
+  * Auto-saving of changes, no longer when quitting
   * Multi-undo, possibly even kept between sessions
   * View and edit other users' or system Fcrontab
   * Proper editing dialog with appropriate widgets
@@ -26,7 +28,7 @@
   * Support for the more advanced Fcron features
   * Any missing features that exist in other GUIs
   * Resizable main window and contents
-  * Command-line flags, to open another Fcrontab
+  * Command-line flags, to open other user's Fcrontab
   * A timer that auto-loads any external changes
   * Support for spanning multiple lines, using '\'
   * Run Fcrontab in debug mode, for error detection
