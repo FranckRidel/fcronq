@@ -17,7 +17,7 @@
   * Get some info from Fcron configuration file
   * Read-only mode if Fcrontab couldn't be parsed
   * Coloured text for disabled and faulty lines
-  * A dialog prompting to save changes before quitting
+  * Prompts to save before switching user or quitting
   * Options to fold spanned and hide disabled lines
   * Support for spanning multiple lines, using '\'
 
