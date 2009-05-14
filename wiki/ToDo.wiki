@@ -5,21 +5,20 @@
 
 === v0.1.0 ===
   * View and edit user's and system Fcrontab
-  * Check-boxes in 'Status' column fields
   * In-place editing of tabulated Fcrontab lines
-  * Inserting, appending and deleting entries
-  * Moving and copying entries to new locations
-  * Auto-saving and installing of modified Fcrontab
-  * All general features from Q7Z and Quamachi
-  * Manipulative buttons in toolbar for actions
-  * Right-click context menu for actions
-  * Disabled combo-box that notes the current user
-  * Get some info from Fcron configuration file
-  * Read-only mode if Fcrontab couldn't be parsed
-  * Coloured text for disabled and faulty lines
-  * Prompts to save before switching user or quitting
-  * Options to fold spanned and hide disabled lines
+  * Check-boxes to enable or disable each line
+  * Inserting, appending, spanning and deleting entries
+  * Drag-and-drop moving of entries to new locations
+  * The modified Fcrontab is installed when saving
+  * A backup of the original is made after loading
+  * Ability to revert, losing all recent changes
+  * Right-click context menu with editing actions
+  * Combo-box to switch between user and system modes
+  * Different coloured column texts and line backgrounds
+  * Prompt to save before loading or quitting
+  * Resizable or resolution-relative main window
   * Support for spanning multiple lines, using '\'
+  * All general features from Q7Z and Quamachi
 
 === v0.2.0 ===
   * Auto-saving of changes, no longer when quitting
@@ -29,9 +28,11 @@
   * Scan for other users' Fcrontabs on disk
   * Direct access to the Fcron documentation
   * Support for the more advanced Fcron features
+  * Read-only mode if Fcrontab couldn't be parsed
   * Any missing features that exist in other GUIs
-  * Resizable or resolution-relative main window
+  * Options to fold spanned and hide disabled lines
   * Command-line flags, to open other user's Fcrontab
   * A timer that auto-loads any external changes
   * Run Fcrontab in debug mode, for error detection
-  * Get more info from Fcron configuration file
+  * Get some info from Fcron configuration file
+  * Manipulative buttons in toolbar for actions
