@@ -37,3 +37,5 @@
   * Run Fcrontab in debug mode, for error detection
   * Get some info from Fcron configuration file
   * Manipulative buttons in toolbar for actions
+  * Fix the hovering colour bug after removing background
+  * Display the current user's name in the title-bar
