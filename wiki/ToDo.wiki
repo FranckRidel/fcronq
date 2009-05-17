@@ -39,3 +39,4 @@
   * Manipulative buttons in toolbar for actions
   * Fix the hovering colour bug after removing background
   * Display the current user's name in the title-bar
+  * Include online/offline status icons next to combo-box
