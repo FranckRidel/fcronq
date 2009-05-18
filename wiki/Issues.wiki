@@ -1,4 +1,5 @@
 #summary Troubleshooting answers
+#labels Phase-QA,Phase-Deploy,Phase-Support
 
 == All ==
 
