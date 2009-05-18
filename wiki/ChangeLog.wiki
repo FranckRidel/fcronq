@@ -1,0 +1,8 @@
+#summary A chronological list of changes
+
+== Next ==
+
+
+=== Linux ===
+
+  * Code structure: several minor changes
