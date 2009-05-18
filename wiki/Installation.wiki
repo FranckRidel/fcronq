@@ -1,0 +1,105 @@
+#summary The essentials for deployment
+
+== Dependencies ==
+
+
+=== Linux ===
+
+==== Required ====
+
+  * [http://www.python.org/ Python], [http://www.trolltech.com/products/qt Qt4], [http://www.riverbankcomputing.co.uk/software/pyqt/intro PyQt4], [http://www.gnu.org/software/make/ Make], [http://www.gnu.org/software/grep/ Grep], [http://fcron.free.fr/ Fcron]
+
+==== Recommended ====
+
+  * [http://kde-apps.org/content/show.php/KdeSudo?content=72106 KdeSudo]
+    * Ensure that [http://www.gratisoft.us/sudo/ Sudo] is working before installing KdeSudo.
+
+
+
+== Installation ==
+
+
+=== Linux ===
+
+Ensure that you've installed the applications listed in the above 'Dependencies' section first.
+
+==== Configure ====
+
+===== Fcron =====
+
+==== Packages ====
+
+  * I provide RPM, DEB, TGZ, AUR and Autopackages with each release.
+  * If you prefer to download the BZip2 source archive and install manually, follow the below procedures.
+
+==== Echo ====
+
+{{{
+cd Build
+make echo
+}}}
+
+==== Clean ====
+
+{{{
+cd Build
+make clean
+}}}
+
+==== Build ====
+
+{{{
+cd Build
+make
+}}}
+
+==== Install ====
+
+  * Please thoroughly check the 'Makefile' for scripting errors before proceeding because I'm not a Linux expert.  It was written by hand and is not guaranteed to protect your data.
+  * Proceed with the following commands only if you are certain that this 'Makefile' will not damage your data in any way.  Use it at your own risk.
+
+===== System =====
+{{{
+cd Build
+make install
+}}}
+
+===== User =====
+{{{
+cd Build
+make install-user
+}}}
+
+Add {{{$HOME/bin/}}} to the {{{$PATH}}} variable in your {{{~/.bash_profile}}} or equivalent and restart KDE.
+
+==== Proxy ====
+
+The proxy server defined by your {{{$http_proxy}}} environment variable will be used.  For example, add the following to your {{{~/.bash_profile}}} or equivalent and restart KDE:
+
+{{{
+export http_proxy=http://[user:password@]proxy.isp.com[:80]/
+}}}
+
+
+
+== Removal ==
+
+
+=== Linux ===
+
+==== Uninstall ====
+
+  * Please thoroughly check the 'Makefile' for scripting errors before proceeding because I'm not a Linux expert.  It was written by hand and is not guaranteed to protect your data.
+  * Proceed with the following commands only if you are certain that this 'Makefile' will not damage your data in any way.  Use it at your own risk.
+
+===== System =====
+{{{
+cd Build
+make uninstall
+}}}
+
+===== User =====
+{{{
+cd Build
+make uninstall-user
+}}}
