@@ -1,9 +1,23 @@
 #summary A chronological list of changes
 #labels Phase-Design,Phase-Support
 
-== Next ==
+== v0.1.0 ==
 
 
 === Linux ===
 
-  * Code structure: several minor changes
+  * View and edit user's and system Fcrontab
+  * In-place editing of tabulated Fcrontab lines
+  * Check-boxes to enable or disable each line
+  * Inserting, appending, spanning and deleting entries
+  * Drag-and-drop moving of entries to new locations
+  * The modified Fcrontab is installed when saving
+  * A backup of the original is made after loading
+  * Ability to revert, losing all recent changes
+  * Right-click context menu with editing actions
+  * Combo-box to switch between user and system modes
+  * Different coloured column texts and line backgrounds
+  * Prompt to save before loading or quitting
+  * Resolution-relative and resizable main window
+  * Tree view to allow spanning multiple lines
+  * All general features from Q7Z and Quamachi
