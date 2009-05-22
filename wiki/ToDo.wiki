@@ -3,23 +3,6 @@
 
 == Roadmap ==
 
-=== v0.1.0 ===
-  * View and edit user's and system Fcrontab
-  * In-place editing of tabulated Fcrontab lines
-  * Check-boxes to enable or disable each line
-  * Inserting, appending, spanning and deleting entries
-  * Drag-and-drop moving of entries to new locations
-  * The modified Fcrontab is installed when saving
-  * A backup of the original is made after loading
-  * Ability to revert, losing all recent changes
-  * Right-click context menu with editing actions
-  * Combo-box to switch between user and system modes
-  * Different coloured column texts and line backgrounds
-  * Prompt to save before loading or quitting
-  * Resolution-relative and resizable main window
-  * Support for spanning multiple lines, using '\'
-  * All general features from Q7Z and Quamachi
-
 === v0.2.0 ===
   * Auto-saving of changes, no longer when quitting
   * The ability to run a job from the Fcrontab now
