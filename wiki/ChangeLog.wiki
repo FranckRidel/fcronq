@@ -1,7 +1,7 @@
 #summary A chronological list of changes
 #labels Phase-Design,Phase-Support
 
-== v0.1.0 ==
+== 0.1.0 ==
 
 
 === Linux ===
