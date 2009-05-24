@@ -19,5 +19,6 @@
   * Different coloured column texts and line backgrounds
   * Prompt to save before loading or quitting
   * Resolution-relative and resizable main window
+  * Dialog widgets: are now auto-spaced for clarity
   * Tree view to allow spanning multiple lines
   * All general features from Q7Z and Quamachi
