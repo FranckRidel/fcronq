@@ -13,6 +13,7 @@
   * Direct access to the Fcron documentation
   * Support for the more advanced Fcron features
   * Read-only mode if Fcrontab couldn't be parsed
+  * Truncate up/down or multi-select/delete ability
   * Any missing features that exist in other GUIs
   * Options to fold spanned and hide disabled lines
   * Command-line flags, to open other user's Fcrontab
