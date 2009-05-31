@@ -1,6 +1,8 @@
 #summary The essentials for deployment
 #labels Featured,Phase-Requirements,Phase-Design,Phase-Deploy,Phase-Support
 
+----
+
 == Dependencies ==
 
 
@@ -15,7 +17,7 @@
   * [http://kde-apps.org/content/show.php/KdeSudo?content=72106 KdeSudo]
     * Ensure that [http://www.gratisoft.us/sudo/ Sudo] is working before installing KdeSudo.
 
-
+----
 
 == Installation ==
 
@@ -81,7 +83,7 @@ The proxy server defined by your {{{$http_proxy}}} environment variable will be 
 export http_proxy=http://[user:password@]proxy.isp.com[:80]/
 }}}
 
-
+----
 
 == Removal ==
 
