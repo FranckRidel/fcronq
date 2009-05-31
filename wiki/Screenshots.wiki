@@ -3,6 +3,6 @@
 
 ----
 
-==== Linux ====
+== Linux ==
 
 http://fcronq.sourceforge.net/FcronQ/Main.png
