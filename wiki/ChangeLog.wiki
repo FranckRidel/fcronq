@@ -1,8 +1,21 @@
 #summary A chronological list of changes
 #labels Phase-Design,Phase-Support
 
-== 0.1.0 ==
+== 0.1.5 ==
 
+=== Linux ===
+
+  * Disabled hiding: to hide disabled lines and spans
+  * Line folding: to show/hide all spans in tandem
+  * Cloning action: for non-empty lines and spans
+  * Clearing action: for non-empty lines and spans
+  * Delete all: to remove all lines at once
+  * Fcrontab removal: when saving empty Fcrontabs
+  * Editing restrictions: increased for correctness
+  * Line parsing: now supports those starting with a '*'
+  * Code structure: several minor changes
+
+== 0.1.0 ==
 
 === Linux ===
 
