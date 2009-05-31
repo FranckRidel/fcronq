@@ -1,7 +1,9 @@
 #summary Design intentions
 #labels Featured,Phase-Requirements,Phase-Design
 
-== Reasons ==
+----
+
+=== Reasons ===
 
 
-=== Linux ===
+==== Linux ====
