@@ -3,9 +3,9 @@
 
 ----
 
-=== 0.1.5 ===
+== 0.1.5 ==
 
-==== Linux ====
+=== Linux ===
 
   * Disabled hiding: to hide disabled lines and spans
   * Line folding: to show/hide all spans in tandem
@@ -19,9 +19,9 @@
 
 ----
 
-=== 0.1.0 ===
+== 0.1.0 ==
 
-==== Linux ====
+=== Linux ===
 
   * View and edit user's and system Fcrontab
   * In-place editing of tabulated Fcrontab lines
