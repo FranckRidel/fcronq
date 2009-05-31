@@ -1,6 +1,8 @@
 #summary Ways to interact
 #labels Featured,Phase-Design,Phase-Deploy
+
 ----
+
 === Application Menus ===
 
 Launch FcronQ from the following application menus.
