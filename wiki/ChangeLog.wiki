@@ -12,7 +12,7 @@
   * Delete all: to remove all lines at once
   * Fcrontab removal: when saving empty Fcrontabs
   * Editing restrictions: increased for correctness
-  * Line parsing: now supports those starting with a '*'
+  * Line parsing: now supports those starting with a `*`
   * Code structure: several minor changes
 
 == 0.1.0 ==
