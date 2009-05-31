@@ -1,6 +1,8 @@
 #summary Images of usage
 #labels Featured,Phase-Design
 
-== Linux ==
+----
+
+==== Linux ====
 
 http://fcronq.sourceforge.net/FcronQ/Main.png
