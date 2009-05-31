@@ -1,11 +1,11 @@
 #summary Ways to interact
 #labels Featured,Phase-Design,Phase-Deploy
 
-== Application Menus ==
+=== Application Menus ===
 
 Launch FcronQ from the following application menus.
 
 
-=== Linux ===
+==== Linux ====
 
 K Menu --> Utilities --> FcronQ
