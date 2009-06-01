@@ -16,12 +16,11 @@
   * Read-only mode if Fcrontab couldn't be parsed
   * Truncate up/down or multi-select/delete ability
   * Any missing features that exist in other GUIs
-  * Options to fold spanned and hide disabled lines
   * Command-line flags, to open other user's Fcrontab
   * A timer that auto-loads any external changes
   * Run Fcrontab in debug mode, for error detection
-  * Get some info from Fcron configuration file
+  * Get more info from Fcron configuration file
   * Manipulative buttons in toolbar for actions
-  * Fix the hovering colour bug after removing background
+  * Fix hovering colour bug after removing the background
   * Display the current user's name in the title-bar
   * Include online/offline status icons next to combo-box
