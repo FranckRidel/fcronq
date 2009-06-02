@@ -32,8 +32,9 @@ Ensure that you've installed the applications listed in the above 'Dependencies'
 
 ==== Packages ====
 
-  * I provide RPM, DEB, TGZ, AUR and Autopackages with each release.
-  * If you prefer to download the BZip2 source archive and install manually, follow the below procedures.
+  * I provide an Autopackage executable with each release, which is the recommended installation method.
+  * I used to provide Deb/RPM/TGZ packages, but these have been deprecated in favour of the Autopackage executable.
+  * If the Autopackage doesn't work, download the BZip2 source archive and install manually, following the below procedures.
 
 ==== Echo ====
 
