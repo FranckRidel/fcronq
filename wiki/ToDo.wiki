@@ -3,6 +3,11 @@
 
 ----
 
+== Contents ==
+<wiki:toc max_depth="2"/>
+
+----
+
 == Features ==
 
   * Auto-saving of changes, no longer when quitting
