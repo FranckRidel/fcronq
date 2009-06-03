@@ -3,6 +3,11 @@
 
 ----
 
+== Contents ==
+<wiki:toc max_depth="2"/>
+
+----
+
 == Application Menus ==
 
 Launch FcronQ from the following application menus.
