@@ -3,30 +3,30 @@
 
 ----
 
-== Contents ==
-<wiki:toc max_depth="2"/>
+= Contents =
+<wiki:toc max_depth="1"/>
 
 ----
 
-== All ==
+= All =
 
 ----
 
-== Linux ==
+= Linux =
 
 
-=== Qt ===
+== Qt ==
 
   * Bug: 4.4.0: Errors are raised when using a caching proxy server, preventing the 'update' feature from working if the {{{$http_proxy}}} environment variable is set.
 
 
-=== PyQt ===
+== PyQt ==
 
   * Bug: 4.4.2: Errors are raised when importing GUIs with QComboBox instances containing icons.
 
 
-=== Fcron ===
+== Fcron ==
 
   * For a background, see the 'Fcron' section of the 'Installation' file.
 
-=== FcronQ ===
+== FcronQ ==
