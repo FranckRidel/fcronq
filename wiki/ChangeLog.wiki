@@ -10,8 +10,6 @@
 
 = 0.1.5 =
 
-== Linux ==
-
   * Disabled hiding: to hide disabled lines and spans
   * Line folding: to show/hide all spans in tandem
   * Cloning action: for non-empty lines and spans
@@ -25,8 +23,6 @@
 ----
 
 = 0.1.0 =
-
-== Linux ==
 
   * View and edit user's and system Fcrontab
   * In-place editing of tabulated Fcrontab lines
