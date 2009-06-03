@@ -3,12 +3,11 @@
 
 ----
 
-== Contents ==
-<wiki:toc max_depth="2"/>
+= Contents =
+<wiki:toc max_depth="1"/>
 
 ----
 
-== Reasons ==
+= Reasons =
 
-
-=== Linux ===
+I'll add to this section at a later date.
