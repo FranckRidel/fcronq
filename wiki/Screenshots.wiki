@@ -3,11 +3,11 @@
 
 ----
 
-== Contents ==
-<wiki:toc max_depth="2"/>
+= Contents =
+<wiki:toc max_depth="1"/>
 
 ----
 
-== Linux ==
+= Linux =
 
 http://fcronq.sourceforge.net/FcronQ/Main.png
