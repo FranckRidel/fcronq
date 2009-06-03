@@ -3,15 +3,15 @@
 
 ----
 
-== Contents ==
-<wiki:toc max_depth="2"/>
+= Contents =
+<wiki:toc max_depth="1"/>
 
 ----
 
-== Application Menus ==
+= Application Menus =
 
 Launch FcronQ from the following application menus.
 
-=== Linux ===
+== Linux ==
 
 K Menu --> Utilities --> FcronQ
