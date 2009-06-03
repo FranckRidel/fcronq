@@ -3,12 +3,12 @@
 
 ----
 
-== Contents ==
-<wiki:toc max_depth="2"/>
+= Contents =
+<wiki:toc max_depth="1"/>
 
 ----
 
-== Features ==
+= Features =
 
   * Auto-saving of changes, no longer when quitting
   * The ability to run a job from the Fcrontab now
