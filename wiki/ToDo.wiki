@@ -28,4 +28,5 @@
   * Manipulative buttons in toolbar for actions
   * Fix hovering colour bug after removing the background
   * Display the current user's name in the title-bar
-  * Include online/offline status icons next to combo-box
+  * Show on/off status icon for the Fcron daemon
+  * Show enabled/disabled status icon next to combo-box
