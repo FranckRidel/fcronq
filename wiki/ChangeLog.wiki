@@ -8,6 +8,21 @@
 
 ----
 
+= 0.2.0 =
+
+== Linux ==
+
+  * Run commands: via the right-click context menu
+  * Daemon status: is now displayed on a push-button
+  * Title-bar: now displays the current user's name
+  * Time limit: removed from loading/saving processes
+  * Line parsing: for freq sections with '`-`' or '`~`'
+  * Save aborting: now gives user correct feedback
+  * Temp Fcrontabs: now removed after loading/saving
+  * Code structure: several minor changes
+
+----
+
 = 0.1.5 =
 
 == Linux ==
