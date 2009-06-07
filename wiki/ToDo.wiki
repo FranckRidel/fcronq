@@ -26,3 +26,4 @@
   * Get more info from Fcron configuration file
   * Manipulative buttons in toolbar for actions
   * Fix hovering colour bug after removing the background
+  * The ability to print the current Fcrontab in colour
