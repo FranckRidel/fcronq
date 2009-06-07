@@ -10,4 +10,6 @@
 
 = Linux =
 
-http://fcronq.sourceforge.net/FcronQ/Main.png
+== Main Dialog ==
+
+[http://fcronq.sourceforge.net/FcronQ/Main.png]
