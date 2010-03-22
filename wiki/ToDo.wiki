@@ -10,6 +10,7 @@
 
 = Features =
 
+  * Find, Find Next and Replace functionalities
   * Auto-saving of changes, no longer when quitting
   * Multi-undo, possibly even kept between sessions
   * Proper editing dialog with appropriate widgets
