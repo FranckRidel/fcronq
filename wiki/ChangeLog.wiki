@@ -14,6 +14,7 @@
 
   * The dialog box sizes are now fully adjustable
   * Dialog widgets are now auto-spaced for clarity
+  * The Makefile now enforces building before installing
   * Several structural improvements made to the Makefile
   * Added licensing rules and installation instructions
   * Deprecated all distribution-specific build scripts
