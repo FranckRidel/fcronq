@@ -8,6 +8,19 @@
 
 ----
 
+= Next =
+
+== Linux ==
+
+  * The dialog box sizes are now fully adjustable
+  * Dialog widgets are now auto-spaced for clarity
+  * Several structural improvements made to the Makefile
+  * Added licensing rules and installation instructions
+  * Deprecated all distribution-specific build scripts
+  * Made several minor changes to the code structure
+
+----
+
 = 0.2.0 =
 
 == Linux ==
