@@ -10,10 +10,10 @@
 
 = FcronQ =
 
-[http://www.gnu.org/licenses/gpl-3.0-standalone.html GNU General Public License (GPL) v3]
+[http://www.gnu.org/licenses/gpl.html GNU GPL v3+]
 
 ----
 
 = Fcron =
 
-[http://www.gnu.org/licenses/gpl-2.0.html GNU General Public License (GPL) v2]
+[http://www.gnu.org/licenses/gpl-2.0.html GNU GPL v2+]
