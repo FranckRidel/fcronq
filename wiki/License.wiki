@@ -1,5 +1,5 @@
 #summary Terms of use
-#labels Phase-Requirements
+#labels Phase-Requirements,Deprecated
 
 ----
 
