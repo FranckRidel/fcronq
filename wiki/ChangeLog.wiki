@@ -14,11 +14,13 @@
 
   * The dialog box sizes are now fully adjustable
   * Dialog widgets are now auto-spaced for clarity
-  * The Makefile now enforces building before installing
-  * Several structural improvements made to the Makefile
-  * Provided basic build and installation instructions
-  * Deprecated all distribution-specific build scripts
+  * The main form size is remembered between sessions
+  * The Makefile enforces building before installing
+  * Made some structural improvements to the Makefile
+  * Added basic build and installation instructions
+  * Deprecated distribution-specific build scripts
   * Improved the clarity of the licensing conditions
+  * Added a link to each license in the 'Help' menu
   * Made several minor changes to the code structure
 
 ----
