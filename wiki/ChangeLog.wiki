@@ -16,8 +16,9 @@
   * Dialog widgets are now auto-spaced for clarity
   * The Makefile now enforces building before installing
   * Several structural improvements made to the Makefile
-  * Added licensing rules and installation instructions
+  * Provided basic build and installation instructions
   * Deprecated all distribution-specific build scripts
+  * Improved the clarity of the licensing conditions
   * Made several minor changes to the code structure
 
 ----
