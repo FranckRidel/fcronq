@@ -13,6 +13,7 @@
 == Linux ==
 
   * Upgraded the source code for Python v3 support
+  * Can now select and manipulate multiple entries
   * The dialog box sizes are now fully adjustable
   * Dialog widgets are now auto-spaced for clarity
   * The main form size is remembered between sessions
