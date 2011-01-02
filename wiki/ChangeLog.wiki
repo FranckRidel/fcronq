@@ -14,7 +14,9 @@
 
   * Upgraded the source code for Python v3 support
   * Can now select and manipulate multiple entries
-  * Added the ability to search via a text filter
+  * Introduced the ability to search via a filter
+  * Added MRU lists to text fields for convenience
+  * Contents of MRU lists can be cleared if desired 
   * The dialog box sizes are now fully adjustable
   * Dialog widgets are now auto-spaced for clarity
   * The main form size is remembered between sessions
