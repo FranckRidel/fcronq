@@ -8,9 +8,9 @@
 
 ----
 
-= Next =
+= 0.3.0 =
 
-== 0.3.0 ==
+== Linux ==
 
   * Upgraded the source code for Python v3 support
   * Can now select and manipulate multiple entries
