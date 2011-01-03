@@ -18,6 +18,7 @@
   * Added MRU lists to text fields for convenience
   * Contents of MRU lists can be cleared if desired 
   * The layout of the context menu has been improved
+  * Error feedback is shown after running commands
   * The dialog box sizes are now fully adjustable
   * Dialog widgets are now auto-spaced for clarity
   * The main form size is remembered between sessions
