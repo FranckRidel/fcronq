@@ -19,6 +19,7 @@
   * Contents of MRU lists can be cleared if desired 
   * The layout of the context menu has been improved
   * Running errors are shown for the current user
+  * Enhanced the information notification techniques
   * The dialog box sizes are now fully adjustable
   * Dialog widgets are now auto-spaced for clarity
   * The main form size is remembered between sessions
