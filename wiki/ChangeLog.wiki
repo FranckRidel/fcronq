@@ -29,7 +29,7 @@
   * Deprecated distribution-specific build scripts
   * Improved the clarity of the licensing conditions
   * Added a link to each license in the 'Help' menu
-  * Changed the download URL launched when updating
+  * Improvements were made to the update checking code
   * Made several minor changes to the code structure
 
 ----
