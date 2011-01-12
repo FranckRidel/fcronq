@@ -10,6 +10,7 @@
 
 = Features =
 
+  * Allow multiple simultaneous 'Run' threads
   * Find, Find Next and Replace functionalities
   * Get line numbers displaying in status tooltips
   * Auto-saving of changes, no longer when quitting
