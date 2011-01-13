@@ -10,6 +10,7 @@
 
 = Features =
 
+  * Let users choose the window opacity percentage
   * Allow multiple simultaneous 'Run' threads
   * Find, Find Next and Replace functionalities
   * Get line numbers displaying in status tooltips
