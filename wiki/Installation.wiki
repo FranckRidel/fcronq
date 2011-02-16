@@ -1,4 +1,4 @@
-#summary The essentials for deployment
+#summary Deployment essentials
 #labels Featured,Phase-Requirements,Phase-Design,Phase-Deploy,Phase-Support
 
 ----
