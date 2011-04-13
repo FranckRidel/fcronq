@@ -35,42 +35,19 @@ Ensure that you've installed the applications listed in the above 'Dependencies'
 
 ==== Fcron ====
 
-=== Packages ===
-
-  * I provide an Autopackage executable with each release, which is the recommended installation method.
-  * I used to provide Deb/RPM/TGZ packages, but these have been deprecated in favour of the Autopackage executable.
-  * If the latter doesn't work, download the BZip2 source archive and install manually, following the below procedures.
-
-=== Echo ===
-
-{{{
-cd Build
-make echo
-}}}
-
-=== Clean ===
-
-{{{
-cd Build
-make clean
-}}}
-
 === Build ===
 
 {{{
 cd Build
-make
+make all
 }}}
 
 === Install ===
 
-  * Please thoroughly check the 'Makefile' for scripting errors before proceeding because I'm not a Linux expert.  It was written by hand and is not guaranteed to protect your data.
-  * Proceed with the following commands only if you are certain that this 'Makefile' will not damage your data in any way.  Use it at your own risk.
-
 ==== System ====
 {{{
 cd Build
-make install
+sudo make install
 }}}
 
 ==== User ====
@@ -93,18 +70,14 @@ export http_proxy=http://[user:password@]proxy.isp.com[:80]/
 
 = Removal =
 
-
 == Linux ==
 
 === Uninstall ===
 
-  * Please thoroughly check the 'Makefile' for scripting errors before proceeding because I'm not a Linux expert.  It was written by hand and is not guaranteed to protect your data.
-  * Proceed with the following commands only if you are certain that this 'Makefile' will not damage your data in any way.  Use it at your own risk.
-
 ==== System ====
 {{{
 cd Build
-make uninstall
+sudo make uninstall
 }}}
 
 ==== User ====
