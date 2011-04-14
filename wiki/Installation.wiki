@@ -15,7 +15,13 @@
 
 === Required ===
 
-  * [http://www.python.org/ Python], [http://www.trolltech.com/products/qt Qt4], [http://www.riverbankcomputing.co.uk/software/pyqt/intro PyQt4], [http://www.gnu.org/software/make/ Make], [http://www.gnu.org/software/grep/ Grep], [http://fcron.free.fr/ Fcron]
+  * [http://www.python.org/ Python] v3, [http://www.trolltech.com/products/qt Qt4], [http://www.riverbankcomputing.co.uk/software/pyqt/intro PyQt4], [http://www.gnu.org/software/make/ Make], [http://www.gnu.org/software/grep/ Grep], [http://fcron.free.fr/ Fcron]
+
+==== PyQt4 ====
+
+  * This application requires that PyQt4 is built for (bound to) Python v3.
+  * The standard 'pyqt4' package on your system was probably built for Python v2.
+  * Ask your Linux distribution developers to create a "PyQt4 for Python v3" package.
 
 === Recommended ===
 
