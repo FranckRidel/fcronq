@@ -8,6 +8,11 @@
 
 ----
 
+= Improvements =
+
+  * Perhaps get username from environment variable
+  * Then send all Fcrontab error output > /dev/null
+
 = Features =
 
   * Let users choose the window opacity percentage
