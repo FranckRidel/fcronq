@@ -8,6 +8,27 @@
 
 ----
 
+= 0.4.0 =
+
+== Linux ==
+
+  * The Fcrontabs of other users can now be edited
+  * External options can be configured via the GUI
+  * A warning message is shown if spool dir is private
+  * Now ignoring any unwanted status lines on load
+  * Improved the error detection ability when saving
+  * Removed enclosing quotes from script pathnames
+  * Error messages force the main dialog to be visible
+  * Forced the Makefile to build in serial mode
+  * Makefile checks dir/file permissions were set
+  * Changed the order of execution for the startup code
+  * Improved how messages are handled and printed
+  * Downsized most icons to 16x16 to reduce bloat
+  * Removed support for the old KDE v3 environment
+  * Made several minor changes to the code structure
+
+----
+
 = 0.3.0 =
 
 == Linux ==
