@@ -12,8 +12,8 @@
 
 == Linux ==
 
-* Better handling if Fcron config file can't be read
-* Updated the 'clean' Makefile function for Python v3
+  * Better handling if Fcron config file can't be read
+  * Updated the 'clean' Makefile function for Python v3
 
 ----
 
