@@ -8,6 +8,17 @@
 
 ----
 
+= 0.4.2 =
+
+== Linux ==
+
+  * Compensated for a change to Fcron's output format
+  * Prevented the column header text from being absent
+  * Tidied up the gathering of user environment variables
+  * Handled case where list character isn't in UTF set
+
+----
+
 = 0.4.1 =
 
 == Linux ==
